@@ -9,9 +9,9 @@ In that case, here's the formatted text as a list without numbers in Markdown:
 * Category: Reversing
 * Difficulty: Very Easy
 
-## Description 
+## Description
 
-The infinity calculator is a reverse engineering challenge. This simple calculator allows the user to perform basic arithmetic operations. 
+The infinity calculator is a reverse engineering challenge. This simple calculator allows the user to perform basic arithmetic operations.
 
 The challenge is to find the flag hidden in the calculator code. This is the first complete challenge I've written in C++, so I hope you enjoy it!
 
@@ -23,11 +23,9 @@ There are three things you can do to solve this challenge:
 
 2. Use basic reversing tools to get the flag. Things like strings, hexdump, and radare2.
 
-3. I will add a writeup at the end of the month to mark the end of the challenge. (August 31st, 2025)
-
 ## Source Code
 
-The full source code for this challenge will be released on August 31st, 2025. 
+The full source code for this challenge will be released on August 31st, 2025.
 
 ### License
 
