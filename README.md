@@ -1,7 +1,5 @@
 # INFINITY CALCULATOR
 
-In that case, here's the formatted text as a list without numbers in Markdown:
-
 * Author: hungry-bogart aka HB
 * Github-Repo: [Clone this repo](https://github.com/hungry-bogart/infinity-calculator)
 * CTF-team: Coney Island Arcade
